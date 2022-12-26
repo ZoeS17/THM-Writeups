@@ -347,6 +347,7 @@ After running the following query, what is the full name of the program returned
 
 ```Wireshark 3.6.8 64-Bit```
 </details>
+
 ## Task 6 - Challenge and Conclusion
 Now that we have explored various tables, learned how to create search queries, and ask questions from the operating system, it's time for a challenge. Use OSquery to examine the host and answer the following questions.
 <details>
